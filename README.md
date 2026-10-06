@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Projet ALM : fonds en euros d'un assureur vie
 
 Gestion actif-passif complète d'un fonds en euros de 1 milliard d'euros, en **Python** et en **R** (double implémentation réconciliée à la précision machine).
@@ -27,4 +27,4 @@ Organisation :
 =======
 # ALM
 ALM_Project
->>>>>>> ad1ee7e61a47c53ff589396fc59e4be6c5141095
+
