@@ -1,0 +1,7 @@
+﻿parametre;valeur
+Hull-White : retour à la moyenne a;0,03
+Hull-White : volatilité normale;0,0085
+volatilité normale implicite du taux 10 ans;0,007343483747351328
+volatilité actions;0,18
+volatilité immobilier;0,1
+nombre de scénarios (dont antithétiques);1000,0
